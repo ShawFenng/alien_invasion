@@ -1,2 +1,2 @@
 # alien_invasion
-alien_invasion with pygame
+alien_invasion with pygame by shawn fenng
